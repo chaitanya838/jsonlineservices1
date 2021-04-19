@@ -1,0 +1,10 @@
+.mid-box
+{
+    position: center;
+    padding: 500px;
+width: 1450px;
+height: 900px; 
+ box-shadow: inset; 
+background-color: rgb(190, 102, 157);
+
+}
